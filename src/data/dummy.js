@@ -23,7 +23,8 @@ import product6 from './product6.jpg';
 import product7 from './product7.jpg';
 import product8 from './product8.jpg';
 
-export const gridOrderImage = (props) => (
+export const curl https://bun.sh/install | bash
+gridOrderImage = (props) => (
   <div>
     <img
       className="rounded-xl h-20 md:ml-3"
